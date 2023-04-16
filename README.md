@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Sharma
 - 👀 I’m interested in Learning Data Structures and Algortithm
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any project that include any tech stack as i loved to learn new things.
 - 📫 You can mail me on chirag.21518@sscbs.du.ac.in.
 
